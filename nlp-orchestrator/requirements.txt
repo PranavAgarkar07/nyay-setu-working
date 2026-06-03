@@ -14,7 +14,7 @@ fastapi==0.136.1
 google-genai==2.3.0
 groq==1.2.0
 httpx==0.28.1
-numpy==2.2.6
+numpy==2.4.6
 Pillow==12.2.0
 protobuf==7.34.1
 psycopg2-binary==2.9.12
